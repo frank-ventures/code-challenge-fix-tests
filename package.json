@@ -1,0 +1,16 @@
+{
+  "name": "code-challenge-fix-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vitest": "^3.1.1"
+  }
+}
